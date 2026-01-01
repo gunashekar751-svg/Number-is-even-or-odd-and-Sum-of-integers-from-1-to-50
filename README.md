@@ -1,0 +1,1 @@
+# Number-is-even-or-odd-and-Sum-of-integers-from-1-to-50
